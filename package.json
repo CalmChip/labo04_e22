@@ -1,0 +1,22 @@
+{
+  "name": "labo04",
+  "version": "1.0.0",
+  "description": "Projet pour le cours de 17 aout 2022 labo 04 Session 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalmChip/labo04_e22.git"
+  },
+  "keywords": [
+    "labo"
+  ],
+  "author": "Jean-Bernard Le Blanc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalmChip/labo04_e22/issues"
+  },
+  "homepage": "https://github.com/CalmChip/labo04_e22#readme"
+}
